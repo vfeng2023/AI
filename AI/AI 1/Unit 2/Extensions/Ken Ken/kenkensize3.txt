@@ -1,0 +1,4 @@
+AABACBCCC
+A 3 x
+B 1 -
+C 8 +

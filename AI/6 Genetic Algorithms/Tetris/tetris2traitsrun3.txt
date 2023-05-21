@@ -1,0 +1,8 @@
+Best strategy: (-0.9653633947835043, 2, 0.47445864507282365, -4)
+Score of best strategy: 12300.0
+Average score of this generation: 3617.064
+
+Best strategy: (-0.11660092707435399, 3, 0.2582838918873105, -5)
+Score of best strategy: 13120.0
+Average score of this generation: 5708.488
+

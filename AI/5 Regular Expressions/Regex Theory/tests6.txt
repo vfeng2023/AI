@@ -1,0 +1,5 @@
+aabca
+abcabcabc
+abbc
+acbab
+bcacababc

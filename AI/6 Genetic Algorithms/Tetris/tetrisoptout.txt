@@ -1,0 +1,16 @@
+Best strategy: (0.5534928521611473, 4, 0.8260021410049987, -6, -0.23709642940325293, 8, -0.7828676906223906, 2)
+Score of best strategy: 13356.0
+Average score of this generation: 1513.02
+
+Best strategy: (0.0047134632890155626, -9, 0.4800491487013645, 3, -0.8112107766753092, 10, -0.3940189042341513, 3)
+Score of best strategy: 13096.0
+Average score of this generation: 3794.18
+
+Best strategy: (0.15931816051145598, 2, 0.893396462175228, -3, -0.8051214387769763, 6, -0.7681503212747793, 3)
+Score of best strategy: 11452.0
+Average score of this generation: 4410.02
+
+Best strategy: (0.5534928521611473, -5, 0.1639292005815991, -6, -0.20093732481868143, 6, -0.049939803995736165, 2)
+Score of best strategy: 13312.0
+Average score of this generation: 4972.54
+

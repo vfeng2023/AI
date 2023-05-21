@@ -1,0 +1,33 @@
+>ghost_example_solution.py wordlist.txt 4
+
+Next player can win with any of these letters:  ['A', 'D']
+
+
+
+>ghost_example_solution.py wordlist.txt 4 A
+
+Next player will lose!
+
+
+
+>ghost_example_solution.py wordlist.txt 4 B
+
+Next player can win with any of these letters:  ['G']
+
+
+
+>ghost_example_solution.py wordlist.txt 3
+
+Next player will lose!
+
+
+
+>ghost_example_solution.py wordlist.txt 3 A
+
+Next player can win with any of these letters:  ['M']
+
+
+
+>ghost_example_solution.py wordlist.txt 3 AN
+
+Next player can win with any of these letters:  ['H']
